@@ -1,0 +1,7 @@
+[package]
+org = "chamoda"
+name = "blog_test_jira"
+version = "0.1.0"
+
+[build-options]
+sticky = true
